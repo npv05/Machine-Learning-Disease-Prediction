@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Jupyter Notebook cache
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
+
+models/*.pkl
+models/*.joblib
